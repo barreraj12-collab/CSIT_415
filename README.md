@@ -4,7 +4,7 @@ This is my CSIT 415 repository for this class this helps me build my skills and 
 ## My Favorite Animal
 ![Favorite Animal](Lion.jpeg)
 
-##Changes Made 
+## Changes Made 
 - Github Repository
 - Feature Branch
 - README file updated
